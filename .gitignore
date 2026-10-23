@@ -1,0 +1,9 @@
+*.log
+*.log.*
+__pycache__/
+*.py[cod]
+.env
+*.key
+*.crt
+*-token*
+*-secret*
